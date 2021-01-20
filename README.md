@@ -1,2 +1,2 @@
 # personal-projects
-a space for my persona projects and experiments
+a space for my personal projects and experiments
